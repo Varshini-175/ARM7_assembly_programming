@@ -1,0 +1,2 @@
+Dependencies for Project 'Basic_programming', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Add_array.asm)(0x652A6962)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include--list .\add_array.lst --xref -o .\add_array.o --depend .\add_array.d)
